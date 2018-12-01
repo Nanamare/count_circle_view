@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/material_blue300</color>
+    <color name="colorPrimaryDark">@color/point_5FA9D0</color>
+    <color name="colorAccent">#DEFFFFFF</color>
+
+    <color name="point_5FA9D0">#FF5FA9D0</color>
+    <color name="material_blue300">#ff64b5f6</color>
+    <color name="material_orangeA700">#ffff6d00</color>
+    <color name="material_orangeA400">#ffff9100</color>
+    <color name="material_greenA400">#ff00e676</color>
+
+    <color name="B1">#00FFFF</color>
+
+    <color name="point_424C57">#FF424C57</color>
+    <color name="point_E47B75">#FFE47B75</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="transparent_5">#0D000000</color>
+    <color name="transparent_10">#22000000</color>
+    <color name="transparent_20">#33000000</color>
+    <color name="transparent_30">#44000000</color>
+    <color name="transparent_40">#55000000</color>
+    <color name="transparent_80">#bb000000</color>
+
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_87">#DEFFFFFF</color>
+
+    <color name="black_7">#12000000</color>
+    <color name="black_12">#1F000000</color>
+    <color name="black_38">#61000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="black_70">#B3000000</color>
+    <color name="black_87">#DE000000</color>
+
+    <color name="main_theme_red">#f63f52</color>
+    <color name="main_theme_blue">#20A6FF</color>
+
+    <color name="btn_negative_guide_popup">#FF5fb0da</color>
+    <color name="btn_positive_guide_popup">#FF808080</color>
+
+
+    <!-- Circle Progress View -->
+    <color name="cp_arc">#f63f52</color>
+    <color name="cp_background">#55000000</color>
+    <color name="cp_rest">#20A6FF</color>
+    <color name="cp_ex_cnt">#ff00e676</color>
+    <color name="cp_ex_ready">#ffffffff</color>
+
+
+
+
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="CircleProgressView">
+		<attr name="exerciseCnt" format="integer" />
+		<attr name="exerciseTime" format="integer" />
+		<attr name="exerciseCntColor" format="color" />
+		<attr name="exerciseCntTextSize" format="integer" />
+		<attr name="circleLineColor" format="color" />
+		<attr name="circleBackgroundColor" format="color" />
+		<attr name="circleLineStrokeSize" format="integer" />
+		<attr name="exerciseTimeMax" format="integer"/>
+		<attr name="exerciseRestSecTextSize" format="integer"/>
+	</declare-styleable>
+
+	<declare-styleable name="ContentCalendarView">
+
+	</declare-styleable>
+
+
+</resources>
